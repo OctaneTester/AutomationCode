@@ -1,7 +1,7 @@
 import org.junit.Assert;
 import org.junit.Test;
 
-public class MainTests {
+public class AutomatedTests {
 
     @Test
     public void basicTrueTest() {
@@ -18,5 +18,4 @@ public class MainTests {
     public void basicFalseTest() {
         Assert.assertTrue(false);
     }
-
 }
